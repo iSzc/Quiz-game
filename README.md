@@ -1,7 +1,7 @@
 <h1 align="center">Quiz Conhecimentos Gerais</h1>
 
 <p align="center">
-  <img alt="Quiz" src=".github/quiz.png">
+  <img alt="Quiz" src="public/quiz.png">
 </p>
 
 ## 💣 Projeto
